@@ -1,6 +1,6 @@
 <gradleEnterprise>
   <server>
-    <url>https://ge.jhipster.tech</url>
+    <url>https://ge.solutions-team.gradle.com</url>
   </server>
   <buildScan>
     <capture>                                         
@@ -15,7 +15,7 @@
   </buildScan>
     <buildCache>
     <local>
-      <enabled>false</enabled>
+      <enabled>true</enabled>
     </local>
     <remote>
       <enabled>false</enabled>

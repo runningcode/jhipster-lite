@@ -190,3 +190,5 @@ dist/
 # Spring personal profile
 ######################
 src/main/resources/config/application-perso.*
+
+.mvn/gradle-enterprise/gradle-enteprise-workspace-id
